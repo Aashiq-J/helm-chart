@@ -1,0 +1,8 @@
+apiVersion: v2
+name: logdna-agent
+description: A Helm chart for a logdna or activity tracker agent
+
+type: application
+
+version: 0.1.0
+icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
